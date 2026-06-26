@@ -10,3 +10,9 @@ Creator: Traversy Media
 
 Link: https://youtu.be/vA5TTz6BXhY?si=oQaONQkTTAjKicpF
 
+# Linux 
+
+## Linux in 100 Seconds
+Creator: Fireship
+
+Link: https://youtu.be/rrB13utjYV4?si=QyXJQh3QxAH5arFP
