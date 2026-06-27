@@ -86,3 +86,56 @@ Switches branches.
 * `.` = Current directory
 * `..` = Parent directory
 * `PATH` = List of directories the shell searches for executables
+
+# HTTP
+
+## Common Methods
+
+GET    - Retrieve data
+POST   - Create new data
+PUT    - Replace existing data
+PATCH  - Partially update existing data
+DELETE - Delete data
+
+---
+
+## Common Status Codes
+
+200 OK
+201 Created
+400 Bad Request
+401 Unauthorized
+403 Forbidden
+404 Not Found
+500 Internal Server Error
+
+---
+
+## Common Content Types
+
+application/json
+text/html
+text/css
+application/javascript
+
+---
+
+## Request Flow
+
+Browser
+↓
+DNS
+↓
+IP Address
+↓
+TCP
+↓
+TLS (HTTPS only)
+↓
+HTTP Request
+↓
+Server
+↓
+HTTP Response
+↓
+Browser renders page
